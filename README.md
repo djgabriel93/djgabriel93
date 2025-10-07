@@ -8,7 +8,7 @@ I am actively seeking my first opportunity in the field  and would love to conne
 
 ---
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/djgabriel93/" />](https://www.linkedin.com/in/djgabriel93/)
-[<img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:gabrielduarte_93@hotmail.com" />](mailto:gabrielduarte_93@hotmail.com)
+[<img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:gabrielduarte_93[at]hotmail.com" />](mailto:gabrielduarte_93[at]hotmail.com)
 <!--
 **djgabriel93/djgabriel93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
