@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi, I'm Gabriel Duarte 👋
+
+With a background as a mid-level professional in the banking sector, I'm now transitioning my career into data analysis. I'm leveraging my industry experience to apply my knowledge in extracting valuable insights and helping companies make strategic, data-driven decisions.
+
+Here on GitHub, you'll find my personal projects, where I use tools like **Python**, **SQL**, and **Power BI** to solve real-world problems and tell stories with data.
+
+I am actively seeking my first opportunity in the field  and would love to connect with recruiters and fellow professionals. Let's chat!
 
 <!--
 **djgabriel93/djgabriel93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
