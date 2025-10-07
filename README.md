@@ -6,6 +6,9 @@ Here on GitHub, you'll find my personal projects, where I use tools like **Pytho
 
 I am actively seeking my first opportunity in the field  and would love to connect with recruiters and fellow professionals. Let's chat!
 
+---
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/djgabriel93/" />](https://www.linkedin.com/in/djgabriel93/)
+[<img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:gabrielduarte_93@hotmail.com" />](mailto:gabrielduarte_93@hotmail.com)
 <!--
 **djgabriel93/djgabriel93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
